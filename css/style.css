@@ -77,6 +77,8 @@ footer p {
 header {
     min-height: 100vh;
     background: #EEEFF1;
+    display: flex;
+    align-items: center;
 }
 
 h1 {
